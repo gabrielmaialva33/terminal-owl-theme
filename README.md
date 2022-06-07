@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/gabrielmaialva33/terminal/master/.github/assets/icon.png" alt="Omni OWL Logo" width="200">
+  <img src="https://raw.githubusercontent.com/gabrielmaialva33/terminal-owl-theme/master/.github/assets/icon.png" alt="Omni OWL Logo" width="200">
   <br>
   Omni Owl for <a href="https://www.jetbrains.com">JetBrains</a>
   <br>
